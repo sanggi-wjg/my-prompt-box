@@ -35,7 +35,6 @@ A prompt repository, I created for my own use
 - 실무에서 주의 해야할 점이 있다면 해당 정보도 같이 알려주세요.
  
 # Question: 
-스프링 AOP에 대해서 알려줘
 ```
 
 
